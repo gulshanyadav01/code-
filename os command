@@ -1,0 +1,78 @@
+1.what is linux?
+ ans: linux is the interface between user and hardware, it performs different types of tasks, like file handlng ,memory management,and process       management.
+
+2.linux has basic commands:
+
+2.a-> ls:(list the content of folder)->syntax:ls,example: $ls.
+
+2.b-> mkdir(make the directory)->if directory already exist it will return a error message(cannot create folder,folder already exists),syntax:mkdir dir_name,example: $mkdir gulshan
+
+2.c-> cat:(it is used to create a file with content)->syntax:cat file_name or cat>file_name example:cat>f1 
+
+2.d-> touch:(it is used to create a file without content)->syntax: touch file_name example $ touch file_name
+
+2.e-> cp:(it copies a file from one location to another) ->syntax: cp source_file destination_file ,example cp f1 f2
+
+2.f-> cd:(change directory it is used for changing the directory): syntax: cd directory_name ,example cd home
+
+2.g-> mv:(moves,it moves a file from one location to another location) syntax: mv source  destination,example mv f1 f2
+
+2.h-> pwd:(current working directory with full path name from terminal),syntax: pwd ,example $pwd
+
+2.i-> whereis:(it is used to locate the sources and manual pages of the command ) syntax whereis command,example $ whereis cat
+
+2.j-> whatis:(it is helpful to get brief information about linux commands) sytax whatis command ,example $ whatis cd
+
+2.k-> which:(it is used to locate executable files in the system) ,syntax whichis command ,example $ which f3
+
+2.l-> man:(it provide online documentation of command and its usages), syntax:man command ,example $ man touch
+
+2.m-> info:(it is also providing online information for all command in structured way),syntax: info command ,example $ info cd 
+
+2.n-> whoami:(it is used the current user of the terminal), syntax: whoami ,example $ whoami
+
+2.o-> bc:(it is used to for basic calculations), syntax :bc ,example $ bc 
+
+2.p-> grep:(it is searches the given file for lines containing matched given string or words),syntax: grep ,example $ grep word file_name 
+
+2.q-> head:(it prints the first ten lines of given files) syntax: head filename ,example $head student 
+
+2.r-> tail:(it prints the last ten lines of the given files) syntax: tail file_name, example $ tail file_name
+
+2.s-> tac :(it prints the contents of the given file in reverse order) syntax: tac file_name, example $tac file_name
+
+2.t-> echo:(it prints the texts on the standard output) syntax: echo message, example $echo message 
+
+2.u-> df:(it report the disk usages of file system,it is useful for user as well as system administator to keep track off their disk usage)
+
+2.v-> du:(it estimate file space usage) syntac du file_name ,example $ du file_name 
+
+2.w-> ps:(process,ps gives the status of running processes with unique id called p_id ),syntax: ps ,example $ps 
+
+2.x-> alias(it is a built in shell command that gives you the short name of bigger name) syntax: alias ,example: 
+
+2.y-> uname(the name command stand for unix name,it print the details information about the machine name ,operating system,kernel) ,syntax uname ,example $ uname 
+
+2.z-> sudo(it allows a permit user to execute a command) syntax: sudo cmd,example$ sudo cmd
+
+3.a-> su(it is used to run the shell subsitute user and group id ,it helps to change the login sessions of owner or user having to first logout of that session) 
+
+3.b-> history(it is used to print the history of long list of executed command in terminals) syntax: history ,example $history
+
+3.c-> passwd(it is used for changing the password ) syntax: passwd ,example $ passwd
+
+3.d-> date(it print the current date and time),syntax: date ,example $date
+
+3.e-> 
+
+
+
+
+
+
+
+
+
+
+
+
